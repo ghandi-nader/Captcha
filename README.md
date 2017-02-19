@@ -2,11 +2,11 @@
 
 
 HTML example:
-
+```
 <div id="captcha"></div>
 <button>generate</button>
-
-
+```
+```
 Javascript example:
 
         $(function () {
@@ -29,3 +29,4 @@ Javascript example:
             generate();
 
         });
+```
